@@ -1,4 +1,4 @@
-# atividades-faculdade-ads
+# Atividades-faculdade-ads
 
 Esse projeto foi feito como parte das atividades da faculdade (Análise e Desenvolvimento de Sistemas - IBMR).
 
